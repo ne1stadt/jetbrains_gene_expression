@@ -44,7 +44,7 @@ lower_estimate = len(data)                        # = 13321
 # There is a probability that researches made some mistakes in naming genes.
 # In the info data sheet there is a GENE_NAME section that we may consider as well.
 # I suggest comparing duplicates on GENE_SYMBOL's with different GENE_NAME's on values to
-# determine if they it's similar gene or a mistake.
+# determine if it's from one gene or just a mistake.
 
 
 
